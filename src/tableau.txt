@@ -1,2 +1,2 @@
-Nombre stocké : 5
-Nombre stocké : 5.2
+Nombre stocké : 2.3
+Nombre stocké : 5.698
