@@ -1,2 +1,4 @@
-Nombre stocké : 2.3
-Nombre stocké : 5.698
+Nombre stocké : 2.36
+Nombre stocké : 2.547
+Nombre stocké : 2.89
+Nombre stocké : 5.65
